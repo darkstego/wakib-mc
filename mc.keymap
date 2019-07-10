@@ -22,8 +22,8 @@ Enter = enter
 Select = alt-plus
 Unselect = alt-minus
 SelectInvert = alt-asterisk
-Top = alt-lt; home; a1
-Bottom = alt-gt; end; c1
+Top = alt-lt; home; a1; alt-n
+Bottom = alt-gt; end; c1; alt-N
 
 [dialog]
 Cancel = f10; esc; ctrl-g
